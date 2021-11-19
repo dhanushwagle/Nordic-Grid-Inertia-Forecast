@@ -1,0 +1,6 @@
+"err","Maximum number of nodes exceeded!"
+"err","Error in load flow data!"
+"err","Load flow calculation not executed."
+"err","Load flow results not valid."
+"err","Cannot calculate initial conditions"
+"err","Cannot run simulation"
